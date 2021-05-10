@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Examples of R and Python on Adaylin Alvarez</title>
+    <link>/tags/examples-of-r-and-python/</link>
+    <description>Recent content in Examples of R and Python on Adaylin Alvarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/examples-of-r-and-python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Having Fun with R and Python</title>
+      <link>/post/2021/05/09/blog-post/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/09/blog-post/</guid>
+      <description>Introduction Python and R are both programming languages that are extremely useful for data wrangling and analysis, especially in the realm of computational biology and bioinformatics. Some examples of this can be seen below.
+ R and Python I will be starting in R by assigning the follow string of characters to TheBestest
+library(reticulate) TheBestest &amp;lt;- &amp;quot;Fearless (Taylor&amp;#39;s Version) by Taylor Swift&amp;quot; As we can see, Ungodly Hour is indeed the best album of 2020.</description>
+    </item>
+    
+  </channel>
+</rss>
