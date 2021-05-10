@@ -13,9 +13,8 @@
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021/05/09/blog-post/</guid>
-      <description>Introduction Python and R are both programming languages that are extremely useful for data wrangling and analysis, especially in the realm of computational biology and bioinformatics. Some examples of this can be seen below.
- R and Python I will be starting in R by assigning the follow string of characters to TheBestest
-library(reticulate) TheBestest &amp;lt;- &amp;quot;Fearless (Taylor&amp;#39;s Version) by Taylor Swift&amp;quot; As we can see, Ungodly Hour is indeed the best album of 2020.</description>
+      <description>Introduction Python and R are both programming languages that are extremely useful for data wrangling and analysis, especially in the realm of computational biology and bioinformatics. Although many think of these different coding languages (or coding in general) as boring and difficult to understand, I decided to introduce a little bit of humor to showcase the fun side of coding below!
+ R and Python I will be starting in R by assigning the follow string of characters to TheBestest</description>
     </item>
     
     <item>
